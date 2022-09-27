@@ -1,0 +1,124 @@
+img{
+    max-width: 100px;
+}
+.container{
+    margin: 0 auto;
+text-align: center;
+}
+.sumario{
+    margin: 0 auto;
+    text-align: center;
+}
+.destaques{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.sobre p{
+    display: inline;
+}
+.informativos{
+    text-align: left;
+}
+.head .container{ 
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.head ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.nav p{
+    display: inline;
+    padding-left: 4px;
+}
+div h3{
+    text-align: center;
+}
+body container{
+    background-color: aliceblue;
+}
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration: underline solid;
+
+}
+.videos{
+    padding: 5px;
+}
+.button{
+ float: right;
+}
+.plataforma{
+    text-align: left;
+}
+img{
+    width: 700px;
+    height: 70px;
+}
+.videos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+a{
+    float: right;
+}
+ .nome{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+    
+}
+ .plataforma {
+   text-align: center;
+   float: center;
+}
+.titulo{
+    text-align: left;
+    font-size: 17px;
+    text-decoration: underline ;
+}
+.jogos{
+    text-align: left;
+}
+.link{
+    text-align: right;
+}
+.publi{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 0%, rgba(252,176,69,1) 54%);
+    padding: 50px;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sobr{
+    text-align: left;
+}
+.logoss{
+    display: inline;
+    padding: 6px;
+    width: 10px;
+    height: 7px;
+}
+.copy{
+    text-align:left;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.card{
+    padding: 10px;
+}
+.empresas{
+    padding: 5px;
+    float: center;
+}
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
